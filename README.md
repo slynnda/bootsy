@@ -21,7 +21,7 @@ Bootsy has only two required dependencies:
 So, execute the folling from your terminal _to install_:
 
 ```
-git clone https://github.com/slynnda/bootsy.git && cd bootsy && chmod +x install.sh && ./install
+git clone https://github.com/slynnda/bootsy.git && cd bootsy && chmod +x install.sh && ./install.sh
 
 ```
 That's it!
